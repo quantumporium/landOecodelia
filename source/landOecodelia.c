@@ -6,8 +6,18 @@
  *
  */
 
+// array containing all the question
+char* question_db[] =
 
+void prologue(){
+	/*
+	 *
+	 * Explain the procedure of software.
+	 * 
+	 */
 
+	printf("Welcome to land of Ecodelia \nAnswer all the questions to the best of your abilities! \n");
+}
 
 
 
